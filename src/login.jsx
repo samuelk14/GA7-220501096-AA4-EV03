@@ -5,8 +5,6 @@ import './login.css';//se importan los estilos
 
 function Login() {
 
-
-
   return (
     <div>
       <section>      
